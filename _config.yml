@@ -1,6 +1,19 @@
 title: <p align="center">Siva Teja Reddy S
 logo: /assets/img/Git_hub_img.jpeg
-description: 
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I'm working on Machine learning & NLP related problems.
+  Also handing the Personal Voice Assistance from real-time.
+  Worked with TRD center at ALS team Marelli.
+  Working in Automotive domain for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
