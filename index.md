@@ -6,24 +6,11 @@ layout: default
 
 ## Project 1
 
->Fraud_Detection.
+Fraud_Detection.
 
 ### Project 2
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+NLP (Personal Voice Assistance)
 
 #### Header 4
 
